@@ -1,0 +1,2 @@
+print curent working directory
+
