@@ -1,0 +1,1 @@
+rdirections in shell
