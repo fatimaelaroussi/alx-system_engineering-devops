@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al *.gif | sort
+ls -al *.gif | sort -f
